@@ -2,8 +2,8 @@ var str = "webcamp"
 
 function foo() {
   console.log(str)
-  var y = "hello"
+  var str = "dmm webcamp"
+  console.log(str)
 }
 
-foo();
-console.log(y)
+foo()
